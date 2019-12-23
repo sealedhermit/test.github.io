@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
+title:  "How I entered the teaching profession..."
+author: "Aparna Anna"
 comments: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.
+My original field of study, for both my bachelor's and master's degrees, were in the field of Science (Biotechnology) / Biomedical Genetics. Having completely them, I very quickly realised that this was not an area I wanted to work in. I then decided that teaching children, was something that I wanted to do. I then promptly completed a Bachelors in Education, and after that realised that main stream teaching, for the most part, does not cater for all types of people. Our provider has created all people of different talents and abilities - if I should be so bold as to employ such mundane use of those words: for some, learning comes easy, and for others, it is a more difficult and arduous process. I wanted to dedicate my efforts to helping those who had special needs. Unfortunately in India, most of these children are left behind. And like with most things in this world, those requiring the most aid, are usually the ones with the least.
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
+In short, I wanted to help out those who were most in need. Those who are often marginalised by society, and maligned through no fault of their own.
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
+I hope to document my ideas, experiences on this blog.
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
-
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
