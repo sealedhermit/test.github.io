@@ -5,8 +5,6 @@ author: "Aparna Anna"
 comments: true
 ---
 
-![_config.yml]({{ site.baseurl }}/images/biriyani.jpeg)
-
 I love biriyani. It is one Indian dish that I can never have enough of. Each state in India has its own way of making biriyani. The dish was introduced to the Indian sub-continent by the Muslims who came to India to trade. This dish is made with rice and meat. The type of rice used to make biriyani is Basmati rice, which is long, slender and has a unique aroma. 
 Here, I will explain in detail how I made beef biriyani. 
 
@@ -28,7 +26,9 @@ Here, I will explain in detail how I made beef biriyani.
 * Turmeric ¼ tsp
 * Pepper 1 tbsp
 * Garam masala ½ tsp
-    
+
+![_config.yml]({{ site.baseurl }}/images/biriyani.jpg)
+
 ## Method: 
 
 We will slow cook the beef first and then add rice into the beef so that the rice cooks in the masala and retains the spicy aromatic flavour. 
