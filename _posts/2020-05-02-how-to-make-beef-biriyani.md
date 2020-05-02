@@ -27,7 +27,7 @@ Here, I will explain in detail how I made beef biriyani.
 * Pepper 1 tbsp
 * Garam masala ½ tsp
 
-![_config.yml]({{ site.baseurl }}/images/biriyani.jpg =500x500)
+![_config.yml]({{ site.baseurl }}/images/biriyani-resized.jpg)
 
 ## Method: 
 
