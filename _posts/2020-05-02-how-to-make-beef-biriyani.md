@@ -54,4 +54,6 @@ We will slow cook the beef first and then add rice into the beef so that the ric
 19. Check if the rice is cooked, and if it is not cooked, leave it closed for another 5 minutes. 
 20. Once the rice is cooked, use a fork and slowly mix the rice. Be gentle so that you do not break the rice grains. 
 
-Serve with a nice salad and curd. 
+Serve with a nice salad and curd.
+
+Enjoy!
