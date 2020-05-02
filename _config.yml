@@ -2,7 +2,7 @@
 title:          Aparna Anna's Blog
 description:    "Ideas and experiences around teaching and travel"
 baseurl:        "/"
-url:            "https://aparnanna.github.io"
+url:            "https://aparnaanna.github.io"
 
 # Google Analytics
 # google_analytics: UA—XXXXXXXX-X
@@ -10,7 +10,7 @@ url:            "https://aparnanna.github.io"
 # Author
 author:
   name:         Aparna Anna Raveendranath
-  url:          https://aparnanna.github.io
+  url:          https://aparnaanna.github.io
   email:        aparnanna@gmail.com
 
 # Build settings
