@@ -6,7 +6,7 @@ comments: true
 ---
 Worksheets can be used as an effective learning tool, if created and used in the right way. It can be used to teach any topic. It is easy to make and does not consume a lot of time. There is a certain format that I followed while making worksheets for children with special needs.
 
-## 1. Goal
+## 1. Goal 
 A worksheet should be made with a clear goal in mind. Identify the goal and creating a worksheet will become easy. 
 
 ## 2. Learning Styles:
