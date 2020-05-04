@@ -15,6 +15,6 @@ Anyways coming back to Christmas, it is the first time I am celebrating it at ho
 
 I did not decorate the house nor go shopping. I did not clad myself in new clothes nor go to church. I did not do a lot of things that I did growing up.
 
-This change has made me realise that I can never give up Christmas. I am not going to sacrifice this holiday for someone who does not find meaning in it. Christmas is my favourite time of the year and I am going to keep it that way. When God has gone through the trouble of giving His son to save us, I feel the need to celebrate it. 
+Deciding not to celebrate did not result in anything productive. It did not make me happy. Infact, I began missing all the activities surrounding it. This change has made me realise that I can never give up Christmas. I am not going to sacrifice this holiday for someone who does not find meaning in it. Life is short and you should be able to do the things that you love and gives you joy. Christmas is my favourite time of the year and I am going to keep it that way. When God has gone through the trouble of giving His son to save us, I feel the need to celebrate it. 
 
 **Merry Christmas!**
