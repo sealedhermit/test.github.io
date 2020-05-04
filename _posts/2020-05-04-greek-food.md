@@ -4,6 +4,9 @@ title:  "Greek Food"
 author: "Aparna Anna"
 comments: true
 ---
+
+![_config.yml]({{ site.baseurl }}/images/position.png)
+
 Ben and I went to Greece in 2018 for a short holiday. I was keen on exploring different types of cuisines while in Greece.
 
 ## Starters
