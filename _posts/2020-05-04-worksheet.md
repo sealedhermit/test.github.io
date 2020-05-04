@@ -20,6 +20,6 @@ It is important to keep the worksheets clutter free. Too many designs and doodle
 
 Here is an example of a worksheet I made for a child in Grade 3.
 
-![_config.yml]({{ site.baseurl }}/images/character indentification.png)
+![_config.yml]({{ site.baseurl }}/images/character identification.png)
 
 Hope this is helpful when you sit down to create a worksheet. 
