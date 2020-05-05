@@ -38,6 +38,6 @@ The temple of Zeus is located in the centre of Athens. It can be seen from the A
 
 ![_config.yml]({{ site.baseurl }}/images/delphi.jpg)
 
-This temple is located on the Mount Parnassos in Delphi. The ruins we see today were built in the 4th century BC. Pythia, the priestess, lived there. She got many visitors who wanted to know their future or fate of their kingdom. It is said that Alexander the Great visited the oracle once. 
+This temple is located on the Mount Parnassos in Delphi. The ruins we see today were built in the 4th century BC. Pythia, the priestess or famously known as the oracle, lived there. She had many visitors who wanted to know their future or fate of their kingdom. It is said that Alexander the Great visited the oracle once. 
 The ancient stadium of Delpi is located a little above the temple. 
 The best way to get to Delhi is by booking a tour.  
