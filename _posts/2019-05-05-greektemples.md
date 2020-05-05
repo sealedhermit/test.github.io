@@ -12,6 +12,7 @@ Greece is famous for its ancient temples and ruins. You need a ticket to gain en
 ## 1. Acropolis, Athens
 
 ![_config.yml]({{ site.baseurl }}/images/parthenon.jpg)
+![_config.yml]({{ site.baseurl }}/images/acropolis.jpg)
 
 Acropolis of Athens is situated on a hill above the city of Athens. It consists of Propylaia which is the entrance to the Acropolis and three temples Parthenon, Erechtheion, and Temple of Athena Nike. The main temple is the Parthenon which is dedicated to Athena. You will need half a day to enjoy the beauty of this site. 
 
