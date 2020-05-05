@@ -27,7 +27,7 @@ The best way to get here is to hire a car or to book a tour.
 
 ![_config.yml]({{ site.baseurl }}/images/agora.jpg)
 
-This temple is dedicated to Hephaestus and is the only temple that is well preserved and intact.  This temple is beneath the north side of Acropolis in the ancient Agora which translates to an ancient marketplace. 
+This temple is dedicated to Hephaestus and is the only temple that is well preserved and intact. It is located beneath the north side of Acropolis in the ancient Agora which translates to an ancient marketplace. 
 
 ## 4. Temple of Olympian Zeus, Athens
 
