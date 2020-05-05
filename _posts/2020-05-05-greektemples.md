@@ -20,7 +20,7 @@ Acropolis of Athens is situated on a hill above the city of Athens. It consists 
 
 ![_config.yml]({{ site.baseurl }}/images/poseidon.jpg)
 
-Temple of Poseidon is dedicated to Poseidon, god of the sea. It is located in Sounion which is 70 Kms south of Athens. 
+Temple of Poseidon is dedicated to Poseidon, god of the sea. It is located in Sounion which is the southern most tip of the Attic peninsula. This temple is built 60m above the sea level. 
 The best way to get here is to hire a car or to book a tour. 
 
 ## 3. Temple of Hephaestus, Ancient Agora of Athens
