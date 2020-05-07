@@ -14,13 +14,13 @@ Greece is famous for its ancient temples and ruins. You need a ticket to gain en
 ![_config.yml]({{ site.baseurl }}/images/parthenon.jpg)
 ![_config.yml]({{ site.baseurl }}/images/acropolis.jpg)
 
-Acropolis of Athens is situated on a hill above the city of Athens. It consists of Propylaia which is the entrance to the Acropolis and three temples Parthenon, Erechtheion, and Temple of Athena Nike. The main temple is the Parthenon which is dedicated to Athena. You will need half a day to enjoy the beauty of this site. 
+Acropolis of Athens is situated on a hill above the city of Athens. It consists of Propylaia which is the entrance to the Acropolis and three temples Parthenon, Erechtheion, and Temple of Athena Nike. The main temple is the Parthenon which is dedicated to Athena. There are two amphitheatres in the Acropolis which are as breathtaking as the temples. You will need half a day to enjoy the beauty of this site. 
 
 ## 2. Temple of Poseidon, Sounion
 
 ![_config.yml]({{ site.baseurl }}/images/poseidon.jpg)
 
-Temple of Poseidon is dedicated to Poseidon, god of the sea. It is located in Sounion which is the southern most tip of the Attic peninsula. This temple is built 60m above the sea level. 
+Temple of Poseidon is dedicated to Poseidon, god of the sea. It is located in Sounion which is the southern most tip of the Attic peninsula. This temple is built 60m above the sea level. It is a beautiful temple built facing the sea. You can hear and feel the waves. 
 The best way to get here is to hire a car or to book a tour. 
 
 ## 3. Temple of Hephaestus, Ancient Agora of Athens
