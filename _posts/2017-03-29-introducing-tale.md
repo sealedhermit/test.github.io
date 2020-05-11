@@ -5,9 +5,15 @@ author: "Aparna Anna"
 comments: true
 ---
 
-My original field of study, for both my bachelor's and master's degrees, were in the field of Science (Biotechnology) / Biomedical Genetics. Having completely them, I very quickly realised that this was not an area I wanted to work in. I then decided that teaching children, was something that I wanted to do. I then promptly completed a Bachelors in Education, and after that realised that main stream teaching, for the most part, does not cater for all types of people. Our provider has created all people of different talents and abilities - if I should be so bold as to employ such mundane use of those words: for some, learning comes easy, and for others, it is a more difficult and arduous process. I wanted to dedicate my efforts to helping those who had special needs. Unfortunately in India, most of these children are left behind. And like with most things in this world, those requiring the most aid, are usually the ones with the least.
+My original field of study, for both my bachelor's and master's degrees, were in the field of Science (Biotechnology / Biomedical Genetics). During my Master's I learned about genetic disorders and how daily life activities (ADL) are difficult for those with genetic abnormalities. There is a significant amount of research detailing the causes and characteristics of genetic abnormalities. This information is useful only when you use it to make their lives better. 
 
-In short, I wanted to help out those who were most in need. Those who are often marginalised by society, and maligned through no fault of their own.
+I did not want to do become a scientist. I wanted to enable and help those with genetic abnormalities to live their lives independently. It took me a while to decide on how to go about it. That was when I decided to start teaching. I completed a Bachelors in Education. After speaking to a few friends on why I chose teaching and with a little research, I found an organisation in Bangalore that trains teachers and parents, to understand and teach children with learning difficulties. I trained and became a special educator.
+
+I enjoy being a special educator. It requires a lot of patience and dedication.
+
+In a nutshell, I want to help out those who are most in need. Those who are often marginalised by society, and maligned through no fault of their own.
+
+Update: I have since moved to Australia and starting life all over. I hope to still be able to do something that will have a positive impact on people and their lives. 
 
 I hope to document my ideas, experiences on this blog.
 
