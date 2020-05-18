@@ -22,5 +22,5 @@ Jackfruit halwa is a delicacy which is made in most households during summer whe
 
 ![_config.yml]({{ site.baseurl }}/images/halwa.jpg)
 
-The summers I spent in Kerala are interlaced with the experiences I have had with traditional food and jackfruit. The lingering taste and memories make me want to go back for that one last bite of chakka vevichadh with fish curry and chakka halwa. 
+The summers I spent in Kerala are interlaced with the experiences I have had with traditional food and jackfruit. The lingering taste and memories make me want to go back for that one last bite of chakka vevichadh with fish curry and chakka halwa.
 
