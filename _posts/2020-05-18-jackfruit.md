@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "An Ode to Jackfruit"
+title:  "My love affair with Jackfruit"
 author: "Aparna Anna"
 comments: true
 ---
-Where do I begin? My love affair with jackfruit (known as chakka in Malayalam) has been going on since I moved to India for higher secondary education. I spend my summer holidays with my uncle and aunt who have a beautiful orchard with different varieties of jackfruit trees. Since then, I have had jackfruit in different forms and shapes: cooked, steamed, caramelised, raw to name a few.
+Where do I begin? My love affair with jackfruit (known as chakka in Malayalam) has been going on since I moved to India for higher secondary education. I spent my summer holidays with my uncle and aunt who have a beautiful orchard with different varieties of jackfruit trees. Since then, I have had jackfruit in different forms and shapes: cooked, steamed, caramelised, raw to name a few.
 
 Jackfruit is one fruit that can be utilised to its fullest. Its flesh can be used to make chips, halwa or porridge. Its seeds can be used to make nutritious curries. The ways in which jackfruit is utilised varies as it grows through the maturation cycle. Jackfruit is rich in macro and micro nutrients and fibre. It is a good source of vitamin C and potassium.
 
