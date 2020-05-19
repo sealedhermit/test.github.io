@@ -14,11 +14,11 @@ Unripe jackfruit flesh is used to make jackfruit chips and porridge. Jackfruit p
 
 ![_config.yml]({{ site.baseurl }}/images/halwa4.jpeg)
 
-Jackfruit chips are an equally delicious snack made from the unripe flesh of jackfruit. It is a day long labour where the entire family comes together, trust me, you need all the help you can get. My uncle is in charge of plucking the jackfruit from the tree and slicing it open. My aunt and I peel the flesh out and cut the flesh into thin long pieces. It is then fried in coconut oil. Gorging on yummy, crispy chips as you make them is the best part of it.
+Jackfruit chips are an equally delicious snack made from the unripe flesh of jackfruit during summer, when jackfruit is aplenty. It is a day long labour where the entire family comes together, trust me, you need all the help you can get. My uncle is in charge of plucking the jackfruit from the tree and slicing it open. My aunt and I peel the flesh out and cut the flesh into thin long pieces. It is then fried in coconut oil. Gorging on yummy, crispy chips as you make them is the best part of it.
 
 ![_config.yml]({{ site.baseurl }}/images/halwa3.jpg)
 
-Jackfruit halwa is a delicacy which is made in most households during summer when jackfruit is aplenty. It is a long and tedious, but satisfying process. The jackfruit is slow cooked with clarified butter and spices by stirring constantly. The end product is the most sought after jackfruit dish of all. The last remaining slice of halwa has been the source of many disputes in many families in Kerala; much blackmailing has been done to get that final bite. 
+Jackfruit halwa is a delicacy which unfortunately is not made in most households. It is a long and tedious, but satisfying process. The jackfruit is slow cooked with clarified butter and spices by stirring constantly. The end product is the most sought after jackfruit dish of all. The last remaining slice of halwa has been the source of many disputes in many families in Kerala; much blackmailing has been done to get that final bite. 
 
 ![_config.yml]({{ site.baseurl }}/images/halwa.jpg)
 
