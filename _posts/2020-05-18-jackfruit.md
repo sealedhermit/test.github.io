@@ -18,7 +18,7 @@ Jackfruit chips are an equally delicious snack made from the unripe flesh of jac
 
 ![_config.yml]({{ site.baseurl }}/images/halwa3.jpg)
 
-Jackfruit halwa is a delicacy which unfortunately is not made in most households. It is a long and tedious, but satisfying process. The jackfruit is slow cooked with clarified butter and spices by stirring constantly. The end product is the most sought after jackfruit dish of all. The last remaining slice of halwa has been the source of many disputes in many families in Kerala; much blackmailing has been done to get that final bite. 
+Jackfruit halwa is a delicacy which, unfortunately, is not made in most households. It is a long and tedious, but satisfying process. The jackfruit is slow cooked with clarified butter and spices by stirring constantly. The end product is the most sought after jackfruit dish of all. The last remaining slice of halwa has been the source of many disputes in many families in Kerala; much blackmailing has been done to get that final bite. 
 
 ![_config.yml]({{ site.baseurl }}/images/halwa.jpg)
 
