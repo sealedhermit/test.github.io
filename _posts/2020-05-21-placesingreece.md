@@ -53,7 +53,7 @@ Super paradise is the beach you want to visit if you want to party. There are bu
 Going for a stroll in the town is a must if you ever visit Mykonos. We walked along the streets just looking at the houses. We spent some time admiring the ancient wind mills on a hill overlooking the sea. They closely resemble old Dutch windmills. 
 
 ## Santorini
-Our next destination was the one I was looking forward to the most. I had heard about it, read about it and seen/saw it in movies. I couldn’t wait to get to Santorini to explore the gorgeous island. That was the reason we decided to spend close to a week there.
+Our next destination was the one I was looking forward to the most. I had heard about it, read about it and seen it in movies. I couldn’t wait to get to Santorini to explore the gorgeous island. That was the reason we decided to spend close to a week there.
 
 ![_config.yml]({{ site.baseurl }}/images/places12.jpg)
 
