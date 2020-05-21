@@ -24,9 +24,10 @@ Athens will be the place to shop if you need anything before you travel to the n
 There are many one day tours that you can book from Athens. We visited [Sunion](https://www.lonelyplanet.com/greece/around-athens/attractions/temple-of-poseidon/a/poi-sig/1289777/1324715) and [Delphi](https://ancient-greece.org/history/delphi.html) via one of those tours. You will be able to get all the information you want about the tours from your hotel reception.
 
 ![_config.yml]({{ site.baseurl }}/images/places5.jpg)
+A view of the Acropolis from the ancient Agora
 
 ## Corinth
-We booked a yellow cab from Athens for a relaxed one day visit to Corinth. We stopped at the [Corinth canal](https://www.google.com/search?ei=qfDFXv7-KuuC4-EPqKyj8Ag&q=korinth+canal&oq=korinth+canal&gs_lcp=CgZwc3ktYWIQAzIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoECAAQRzoFCAAQkQJQh48CWN2WAmC6mQJoAHABeACAAYoCiAGMCpIBBTAuMi40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi-9-Wb_cPpAhVrwTgGHSjWCI4Q4dUDCAs&uact=5) first. The view from the top shows the steep and narrow cut of the canal. There is a tiny pedestrian bridge with railings on each side where people tie ribbons or tiny plastic strips for good luck. The view of the canal from the bridge was breathtaking. It made us admire the skills people had to plan and make the canal. 
+We booked a yellow cab from Athens for a relaxed one day visit to Corinth. Our first stop was at the [Corinth canal](https://www.google.com/search?ei=qfDFXv7-KuuC4-EPqKyj8Ag&q=korinth+canal&oq=korinth+canal&gs_lcp=CgZwc3ktYWIQAzIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoECAAQRzoFCAAQkQJQh48CWN2WAmC6mQJoAHABeACAAYoCiAGMCpIBBTAuMi40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi-9-Wb_cPpAhVrwTgGHSjWCI4Q4dUDCAs&uact=5) first. The view from the top shows the steep and narrow cut of the canal. There is a tiny pedestrian bridge with railings on each side where people tie ribbons or tiny plastic strips for good luck. The view of the canal from the bridge was breathtaking. It made us admire the skills people had to plan and make the canal. 
 
 ![_config.yml]({{ site.baseurl }}/images/places6.jpg)
 
@@ -34,7 +35,7 @@ We booked a yellow cab from Athens for a relaxed one day visit to Corinth. We st
 
 Our next stop was the ancient town of Corinth. From there, we went to have our lunch at Marinos which was my favourite. I can’t emphasise enough about the amazing food we had there. I have spoken more about it in my previous post titled [Best Restaurants in Greece](https://aparnaanna.github.io/2020-05-02/greek-restaurants)
 
-Our next visit was to the Epidaurus Theatre which boasts of excellent acoustics. It was built sometime towards the end of 4th century BC. We wanted to check the acoustics. Since I was not keeping well that day, my husband decided to climb to the back row. It made me the performer and my husband, the spectator. I told my husband to close his eyes and then I dropped a coin on the floor. I checked if my husband could hear it and surprisingly enough, he was able to hear it. 
+From there we went to the Epidaurus Theatre which boasts of excellent acoustics. It was built sometime towards the end of 4th century BC. We wanted to check the acoustics. Since I was not keeping well that day, my husband decided to climb to the back row. It made me the performer and my husband, the spectator. I told my husband to close his eyes and then I dropped a coin on the floor. I checked if my husband could hear it and surprisingly enough, he was able to hear it. 
 
 ![_config.yml]({{ site.baseurl }}/images/places8.jpg)
 
