@@ -39,6 +39,8 @@ From there we went to the Epidaurus Theatre which boasts of excellent acoustics.
 
 ![_config.yml]({{ site.baseurl }}/images/places8.jpg)
 
+![_config.yml]({{ site.baseurl }}/images/places25.jpg)
+
 ## Mykonos
 We caught an early morning [ferry](https://www.ferries.gr/greek-islands-ferry/ferry_athens.htm) from Athens to this party island. The beauty of this tiny island left me spellbound. It was as if I disembarked into a painting. The houses were painted white with different coloured windows and doors. The paved streets with white lines added to the surreal beauty. 
 
@@ -59,6 +61,10 @@ Our next destination was the one I was looking forward to the most. I had heard 
 
 ![_config.yml]({{ site.baseurl }}/images/places13.jpg)
 
+Make sure to book your ferry tickets the day you arrive instead of later or if you can, book it online. The seats tend to fill up soon during the peak season and you may be forced to choose an alternative expensive mode of transport. 
+
+![_config.yml]({{ site.baseurl }}/images/places26.jpg)
+
 We stayed at Fira and travelled to different parts of the island by bus. The island in and of itself was breathtaking. We could see different shades of blue in the water. At one point, there was a cruise ship docked in the water which made it look like a postcard. 
 
 ![_config.yml]({{ site.baseurl }}/images/places14.jpg)
@@ -68,7 +74,6 @@ We decided to go beach hopping on a [yacht](https://www.tripadvisor.com.au/Attra
 ![_config.yml]({{ site.baseurl }}/images/places15.jpg)
 
 If you want to see a beautiful sunset in Santorini, Oia is the place to be. It is a small town located in the Northwestern tip of Santorini. This picturesque town has beautiful churches and buildings. We spent a whole afternoon exploring and enjoying this town.
-
 
 The food in Santorini is exceptional. There are many taverns and shacks that serve amazing food. Our favourite was Volcano Blue in Fira. 
 
@@ -100,6 +105,8 @@ We took a bus to Elafonisi from Chania. The beach with its light pink sand, crys
 Herakloin is the capital of Crete. It is famous for [the ruins of Knossos](https://en.wikipedia.org/wiki/Knossos) which was thought to be the oldest city in Europe. The Minoan Palace of Knossos was built around 2000 BC. Though much of it was destroyed, we were still able to see structures used as rooms and storage, artefacts, and the giant courtyard. This palace would have been the equivalent of the Abu Dhabi Presidential Palace.
 
 ![_config.yml]({{ site.baseurl }}/images/places22.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/places27.jpg)
 
 We were also lucky to chance upon peacocks at the ruins which called for a selfie. 
 
