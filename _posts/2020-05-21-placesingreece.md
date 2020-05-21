@@ -105,7 +105,6 @@ We were also lucky to chance upon peacocks at the ruins which called for a selfi
 ![_config.yml]({{ site.baseurl }}/images/places23.jpg)
 
 Another restaurant that became our favourite, Murmura, is famous for its seafood and is in Heraklion. 
-
 Greece is a destination where you can kick back and relax with good food and calming drinks. 
 
 ![_config.yml]({{ site.baseurl }}/images/places24.jpg)
