@@ -13,7 +13,7 @@ Ben and I went to Greece in 2018 for a short holiday. I was keen on exploring di
 
 ![_config.yml]({{ site.baseurl }}/images/starter.jpg)
 
-The Greeks always start of their meals with pita (bread) and dip. The dips are usually Tzaiziki or an olive spread. The natives have pita with just olive oil and some salt. It is a geart way to start your meal but if not careful, you can end up losing your apetite. 
+The Greeks always start of their meals with pita (bread) and dip. The dips are usually Tzaiziki or an olive spread. The natives have pita with just olive oil and some salt. It is a great way to start your meal but if not careful, you can end up losing your apetite. 
 
 
 ## Souvlaki
