@@ -97,7 +97,7 @@ We took a bus to Elafonisi from Chania. The beach with its light pink sand, crys
 ![_config.yml]({{ site.baseurl }}/images/places21.jpg)
 
 
-Herakloin is the capital of Crete. It is famous for [the ruins of Knossos](https://en.wikipedia.org/wiki/Knossos) which was thought to be the oldest city in Europe. This palace was built around 2000 BC. Though much of it was destroyed, we were still able to see structures used as rooms and storage, artefacts, and the giant courtyard. This place would have been the equivalent of the Abu Dhabi Presidential Palace.
+Herakloin is the capital of Crete. It is famous for [the ruins of Knossos](https://en.wikipedia.org/wiki/Knossos) which was thought to be the oldest city in Europe. The Minoan Palace of Knossos was built around 2000 BC. Though much of it was destroyed, we were still able to see structures used as rooms and storage, artefacts, and the giant courtyard. This palace would have been the equivalent of the Abu Dhabi Presidential Palace.
 
 ![_config.yml]({{ site.baseurl }}/images/places22.jpg)
 
