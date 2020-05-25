@@ -9,7 +9,7 @@ comments: true
 Greece is a land of ancient history, culture, and places to see. When we were thinking of going to Greece, it did not make sense to visit a place for a day. We wanted to spend a considerable amount of time exploring and learning about each place. Hence, instead of hopping in and out of many places, we picked a few and tried to get the most out of each location. 
 
 ## Athens
-We picked Athens as our first destination because of the convenience it offered travel wise. We stayed at a hotel in the city centre and after resting for a day, we decided to walk around to explore the place. The tiny cobbled streets in Plaka are lined with restaurants and shops on either side. 
+We picked Athens as our first destination because of the convenience it offered travel wise. We stayed at a hotel in the city centre and after resting for a day, we decided to walk around to explore the place. We walked along the tiny cobbled streets in Plaka which were lined with restaurants and shops on either side. 
 
 ![_config.yml]({{ site.baseurl }}/images/places2.jpg)
 
@@ -27,7 +27,7 @@ There are many one day tours that you can book from Athens. We visited [Sunion](
                     A view of the Acropolis from the ancient Agora
 
 ## Corinth
-We booked a yellow cab from Athens for a relaxed one day visit to Corinth. Our first stop was at the [Corinth canal](https://www.google.com/search?ei=qfDFXv7-KuuC4-EPqKyj8Ag&q=korinth+canal&oq=korinth+canal&gs_lcp=CgZwc3ktYWIQAzIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoECAAQRzoFCAAQkQJQh48CWN2WAmC6mQJoAHABeACAAYoCiAGMCpIBBTAuMi40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi-9-Wb_cPpAhVrwTgGHSjWCI4Q4dUDCAs&uact=5) first. The view from the top shows the steep and narrow cut of the canal. There is a tiny pedestrian bridge with railings on each side where people tie ribbons or tiny plastic strips for good luck. The view of the canal from the bridge was breathtaking. It made us admire the skills people had to plan and make the canal. 
+We booked a yellow cab from Athens for a relaxed one day visit to Corinth. Our first stop was the [Corinth canal](https://www.google.com/search?ei=qfDFXv7-KuuC4-EPqKyj8Ag&q=korinth+canal&oq=korinth+canal&gs_lcp=CgZwc3ktYWIQAzIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjIECAAQCjoECAAQRzoFCAAQkQJQh48CWN2WAmC6mQJoAHABeACAAYoCiAGMCpIBBTAuMi40mAEAoAEBqgEHZ3dzLXdpeg&sclient=psy-ab&ved=0ahUKEwi-9-Wb_cPpAhVrwTgGHSjWCI4Q4dUDCAs&uact=5). The view from the top shows the steep and narrow cut of the canal. There is a tiny pedestrian bridge with railings on each side where people tie ribbons or tiny plastic strips for good luck. The view of the canal from the bridge was breathtaking. It made us admire the skills people had to plan and make the canal. 
 
 ![_config.yml]({{ site.baseurl }}/images/places6.jpg)
 
