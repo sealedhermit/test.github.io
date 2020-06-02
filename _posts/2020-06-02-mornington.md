@@ -59,9 +59,9 @@ If you are planning a day trip to Mornington Peninsula, I’ll recommend the fol
 
 1. Sanitiser (because of hygiene during corona)
 2. Enough water
-3. Snacks like fruits that will help you stay hydrated
-4. Food if you do not want to go in search of a restaurant or if you want to enjoy the view from Arthur’s Seat
+3. Snacks such as fruits that will help you stay hydrated.
+4. Food if you do not want to go in search of a restaurant or if you are up for a picnic.
 5. First aid
 6. Sun protection
-7. Jackets – windproof becasue the coastal area can be windy.
+7. Jackets – windproof because the coastal area can be windy.
 8. Sunglasses – do not forget sunglasses coz the sun will be in your eyes.
