@@ -63,5 +63,5 @@ If you are planning a day trip to Mornington Peninsula, I’ll recommend the fol
 4. Food if you do not want to go in search of a restaurant or if you want to enjoy the view from Arthur’s Seat
 5. First aid
 6. Sun protection
-7. Jackets – windproof
+7. Jackets – windproof becasue the coastal area can be windy.
 8. Sunglasses – do not forget sunglasses coz the sun will be in your eyes.
