@@ -9,11 +9,11 @@ Our visit to the Peninsula was an unplanned one. We wanted to do something ‘ni
 
 ## Arthur’s Seat State Park
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25027.610728078715!2d144.94298033087696!3d-38.36167914741605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad5c61d5808004d%3A0x5045675218cfcd0!2sArthurs%20Seat%20VIC%203936!5e0!3m2!1sen!2sau!4v1591057981056!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 Since this was a relaxed trip, we started from home around mid-day. After around one hour, we reached Arthur’s Seat. Enjoying the Seawinds Garden and walking along the Summit Circuit are some of the  few things you can do here. 
 
 [The Enchanted Garden](https://www.enchantedmaze.com.au/), which has an entry fee, is located close to Arthur’s Seat. 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25027.610728078715!2d144.94298033087696!3d-38.36167914741605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad5c61d5808004d%3A0x5045675218cfcd0!2sArthurs%20Seat%20VIC%203936!5e0!3m2!1sen!2sau!4v1591057981056!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ![_config.yml]({{ site.baseurl }}/images/as1.jpg)
 
