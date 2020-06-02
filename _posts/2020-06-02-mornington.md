@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Short Trip to Arthur's Seat and Portsea"
+title:  "A Short Trip to Mornington Peninsula"
 author: "Aparna Anna"
 comments: true
 ---
