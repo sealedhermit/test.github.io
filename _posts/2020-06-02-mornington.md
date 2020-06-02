@@ -39,7 +39,7 @@ When you drive towards the tip of the Peninsula, you’ll reach Portsea, where t
 
 ![_config.yml]({{ site.baseurl }}/images/as7.jpg)
 
-Once upon a time, Point Nepean defence facility protected the entrance to Port Philip. You can the structures that used house the artillery – Fort Pearce and Fort Nepean. Fort Pearce has gun placements, underground storage and bunkers which are still standing. These structures are over 150 years old. We saw gun terrets along the walk which gave a glimpse into Australia's wartime history.
+Once upon a time, Point Nepean defence facility protected the entrance to Port Philip. You can see the structures that used to house the artillery – Fort Pearce and Fort Nepean. Fort Pearce has gun placements, underground storage and bunkers which are still standing. These structures are over 150 years old. We saw gun terrets along the latter half of the walk which gave a glimpse into Australia's wartime history.
 
 For those who find it difficult to walk, there is a shuttle service running between the Quarantine Station and Fort Nepean. 
 
