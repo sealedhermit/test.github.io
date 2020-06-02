@@ -17,7 +17,7 @@ Since this was a relaxed trip, we started from home around mid-day. After around
 
 ![_config.yml]({{ site.baseurl }}/images/as1.jpg)
 
-There are viewpoints to the see the Port Philip Bay from different points on the road leading to the Arthur’s Seat Summit. But if you want to get a clear view with a bit of history, the Summit Walk is a better option. 
+There are lookout points to the see the Port Philip Bay from different points on the road leading to the Arthur’s Seat Summit. But if you want to get a clear view with a bit of history, the Summit Walk is a better option. 
 
 ![_config.yml]({{ site.baseurl }}/images/as2.jpg)
 
