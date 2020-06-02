@@ -31,7 +31,7 @@ There is Arthur Seat Eagle, a cable car ride, that will take you to the top, giv
 
 ## Point Nepean National Park
 
-When you drive towards the tip of the Peninsula, you’ll reach Portsea, where the Point Nepean National Park is located. You can drive up as far as the Gunner’s House within the national park and then walk/cycle along the road or the trails. There are many beautiful trails along the coast with spectacular views of the Bass Straight and the Port Philip Bay. You will begin to see the view after walking about 1 Km from the car park. This park has a variety of coastal plants and trees. 
+When you drive towards the tip of the Peninsula, you’ll reach Portsea, where the Point Nepean National Park is located. You can drive up as far as the Gunner’s House within the national park and then walk/cycle along the Defence Road or the trails. There are many beautiful trails along the coast with spectacular views of the Bass Straight and the Port Philip Bay. You will begin to see the view after walking about 1 Km from the car park. This park has a variety of coastal plants and trees. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25043.805169393483!2d144.66662777558423!3d-38.314814884201795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad4360d3e54f199%3A0x1a5a83f4687876da!2sPoint%20Nepean%20National%20Park!5e0!3m2!1sen!2sau!4v1591057692787!5m2!1sen!2sau" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
@@ -39,15 +39,15 @@ When you drive towards the tip of the Peninsula, you’ll reach Portsea, where t
 
 ![_config.yml]({{ site.baseurl }}/images/as7.jpg)
 
-Point Nepean had a defence facility protecting the entrance to Port Philip. There are structures that used house the artillery – Fort Pearce and Fort Nepean. 
+Once upon a time, Point Nepean defence facility protected the entrance to Port Philip. You can the structures that used house the artillery – Fort Pearce and Fort Nepean. Fort Pearce has gun placements, underground storage and bunkers which are still standing. These structures are over 150 years old. We saw gun terrets along the walk which gave a glimpse into Australia's wartime history.
 
-Fort Pearce has gun placements, underground storage and bunkers which are still standing. 
+For those who find it difficult to walk, there is a shuttle service running between the Quarantine Station and Fort Nepean. 
 
 ![_config.yml]({{ site.baseurl }}/images/as8.jpg)
 
 ## Food
 
-Mornington has many restaurants which you can try  from. But keep in mind,  most restaurants open only at 5 in the evening on weekdays after they close for their break. Since we did not pack a lot of food, we drove around all the way from Portsea through Sorrento to Rosebud before we found a restaurant that was open. Thank God for [Smokin’ Joe’s Pizza and Grill](https://goo.gl/maps/MjrL9cHayQs5VBBH7) - we were able to get some pizza and nuggets. 
+Mornington has many restaurants which you can try  from. But keep in mind, most restaurants open only at 5 in the evening on weekdays after they close for their break. Since we did not pack a lot of food, we drove around all the way from Portsea through Sorrento to Rosebud before we found a restaurant that was open. Thank God for [Smokin’ Joe’s Pizza and Grill](https://goo.gl/maps/MjrL9cHayQs5VBBH7) - we were able to get some pizza and nuggets. 
 
 ![_config.yml]({{ site.baseurl }}/images/as9.jpg)
 
