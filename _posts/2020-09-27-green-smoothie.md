@@ -5,6 +5,8 @@ author: "Aparna Anna"
 comments: true
 ---
 
+![_config.yml]({{ site.baseurl }}/images/green.jpg)
+
 Green smoothie consists of fruits and greens that are rich in iron and vitamins. It is good to improve our immunity. It is great for healthy hair and skin. This recipe is courtesy of #bruisedpassports.
 
 ### Ingredients:
