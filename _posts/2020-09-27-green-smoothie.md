@@ -23,8 +23,8 @@ Green smoothie consists of fruits and greens that are rich in iron and vitamins.
 Add all the ingredients into the blender. Blend until smooth. Enjoy!
 
 Things to remember:
-    • It is always good to make it fresh.
-    • Use spinach if you can't get a hold of baby spinach. Blanche the spinach before adding it to the blender. 
-    • Alter the quantities of curry leaves, turmeric and ginger to find the balance in flavour that you like. Adding too many curry leaves can be unpleasant for some. Also, do not forget to start with smaller quantities. 
-    • If you do not have fresh turmeric, use a pinch of turmeric powder. But it will be ideal to get a hold of fresh turmeric when you can. 
-    • You can add as many fruits as you like. You can also add apple to sweeten it. Try it with kiwi or any seasonal fruit that you can find. But make sure the fruit is a good source of vitamin C. 
+* It is always good to make it fresh.
+* Use spinach if you can't get a hold of baby spinach. Blanche the spinach before adding it to the blender. 
+* Alter the quantities of curry leaves, turmeric and ginger to find the balance in flavour that you like. Adding too many curry leaves can be unpleasant for some. Also, do not forget to start with smaller quantities. 
+* If you do not have fresh turmeric, use a pinch of turmeric powder. But it will be ideal to get a hold of fresh turmeric when you can. 
+* You can add as many fruits as you like. You can also add apple to sweeten it. Try it with kiwi or any seasonal fruit that you can find. But make sure the fruit is a good source of vitamin C. 
